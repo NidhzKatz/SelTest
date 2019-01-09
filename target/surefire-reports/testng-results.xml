@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="102" started-at="2019-01-09T03:37:49Z" finished-at="2019-01-09T03:37:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="102" started-at="2019-01-09T03:37:49Z" finished-at="2019-01-09T03:37:49Z">
+      <class name="WebTest.SelTest.P2Test">
+        <test-method status="PASS" signature="Test2()[pri:0, instance:WebTest.SelTest.P2Test@566776ad]" name="Test2" duration-ms="25" started-at="2019-01-09T03:37:49Z" finished-at="2019-01-09T03:37:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- WebTest.SelTest.P2Test -->
+      <class name="WebTest.SelTest.PractiseTest">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:WebTest.SelTest.PractiseTest@6108b2d7]" name="Test1" duration-ms="0" started-at="2019-01-09T03:37:49Z" finished-at="2019-01-09T03:37:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:WebTest.SelTest.PractiseTest@6108b2d7]" name="Test3" duration-ms="1" started-at="2019-01-09T03:37:49Z" finished-at="2019-01-09T03:37:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- WebTest.SelTest.PractiseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
